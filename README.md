@@ -1,4 +1,4 @@
-# Data extraction from URL 
+#  Data extraction from URL 
 derived from the e-commerce sector
 
 ## The main goal of the solution is from a URL to extract 
